@@ -1,0 +1,96 @@
+###############################################################################
+# Document Properties 
+###############################################################################
+
+SET DOCUMENT Name = ""
+SET DOCUMENT Description = ""
+
+# The document version should adhere to semantic versioning
+# See http://semver.org/ for more information.
+SET DOCUMENT Version = "1.0.0"
+
+# Authors should be provided in a comma delimited string
+SET DOCUMENT Authors = ""
+
+# Contact info should be the email address of the responsible party for editing
+SET DOCUMENT ContactInfo = ""
+
+SET DOCUMENT Copyright = ""
+
+# The default license is set to Creative Commons 4.0. This means that others are 
+# free to share and adapt this work, for any purpose. For more information, see:
+# https://creativecommons.org/licenses/by/4.0/
+SET DOCUMENT Licenses = "Creative Commons 4.0"
+
+###############################################################################
+# Definitions
+###############################################################################
+
+# BEL Framework Namespaces, distributed by SCAI
+
+DEFINE NAMESPACE AFFX AS URL "https://owncloud.scai.fraunhofer.de/index.php/s/JsfpQvkdx3Y5EMx/download?path=affy-probeset-ids.belns"
+DEFINE NAMESPACE CHEBI AS URL "https://owncloud.scai.fraunhofer.de/index.php/s/JsfpQvkdx3Y5EMx/download?path=chebi.belns"
+DEFINE NAMESPACE DO AS URL "https://owncloud.scai.fraunhofer.de/index.php/s/JsfpQvkdx3Y5EMx/download?path=disease-ontologu.belns"
+DEFINE NAMESPACE EGID AS URL "https://owncloud.scai.fraunhofer.de/index.php/s/JsfpQvkdx3Y5EMx/download?path=entrez-gene-ids.belns"
+DEFINE NAMESPACE GOBPID AS URL "https://owncloud.scai.fraunhofer.de/index.php/s/JsfpQvkdx3Y5EMx/download?path=go-biological-process-ids.belns"
+DEFINE NAMESPACE GOBP AS URL "https://owncloud.scai.fraunhofer.de/index.php/s/JsfpQvkdx3Y5EMx/download?path=go-biological-process.belns"
+DEFINE NAMESPACE GOCCID AS URL "https://owncloud.scai.fraunhofer.de/index.php/s/JsfpQvkdx3Y5EMx/download?path=go-cellular-component-ids.belns"
+DEFINE NAMESPACE GOCC AS URL "https://owncloud.scai.fraunhofer.de/index.php/s/JsfpQvkdx3Y5EMx/download?path=go-cellular-component.belns"
+DEFINE NAMESPACE HGNC AS URL "https://owncloud.scai.fraunhofer.de/index.php/s/JsfpQvkdx3Y5EMx/download?path=hgnc-human-genes.belns"
+DEFINE NAMESPACE MESHCSID AS URL "https://owncloud.scai.fraunhofer.de/index.php/s/JsfpQvkdx3Y5EMx/download?path=mesh-cellular-structures-ids.belns"
+DEFINE NAMESPACE MESHCS AS URL "https://owncloud.scai.fraunhofer.de/index.php/s/JsfpQvkdx3Y5EMx/download?path=mesh-cellular-structures.belns"
+DEFINE NAMESPACE MESHDID AS URL "https://owncloud.scai.fraunhofer.de/index.php/s/JsfpQvkdx3Y5EMx/download?path=mesh-diseases-ids.belns"
+DEFINE NAMESPACE MESHD AS URL "https://owncloud.scai.fraunhofer.de/index.php/s/JsfpQvkdx3Y5EMx/download?path=mesh-diseases.belns"
+DEFINE NAMESPACE MESHPP AS URL "https://owncloud.scai.fraunhofer.de/index.php/s/JsfpQvkdx3Y5EMx/download?path=mesh-biological-processes.belns"
+DEFINE NAMESPACE MGI AS URL "https://owncloud.scai.fraunhofer.de/index.php/s/JsfpQvkdx3Y5EMx/download?path=mgi-mouse-genes.belns"
+DEFINE NAMESPACE RGD AS URL "https://owncloud.scai.fraunhofer.de/index.php/s/JsfpQvkdx3Y5EMx/download?path=rgd-rat-genes.belns"
+DEFINE NAMESPACE SCOMP AS URL "https://owncloud.scai.fraunhofer.de/index.php/s/JsfpQvkdx3Y5EMx/download?path=selventa-named-complexes.belns"
+DEFINE NAMESPACE SFAM AS URL "https://owncloud.scai.fraunhofer.de/index.php/s/JsfpQvkdx3Y5EMx/download?path=selventa-protein-families.belns"
+
+# BELIEF Namespaces
+
+DEFINE NAMESPACE ADO AS URL "http://belief.scai.fraunhofer.de/openbel/repository/namespaces/ADO.belns"
+DEFINE NAMESPACE PDO AS URL "http://belief.scai.fraunhofer.de/openbel/repository/namespaces/PDO.belns"
+DEFINE NAMESPACE dbSNP AS URL "http://belief.scai.fraunhofer.de/openbel/repository/namespaces/SNP.belns"
+DEFINE NAMESPACE PTS AS URL "http://belief.scai.fraunhofer.de/openbel/repository/namespaces/PTS.belns"
+DEFINE NAMESPACE NIFT AS URL "http://belief.scai.fraunhofer.de/openbel/repository/namespaces/NIFT.belns"
+DEFINE NAMESPACE BRCO AS URL "http://belief.scai.fraunhofer.de/openbel/repository/namespaces/BRCO.belns"
+
+DEFINE NAMESPACE PMIBP AS URL "http://belief.scai.fraunhofer.de/BeliefDashboard/dicten/namespaces/pmibp.belns"
+
+# BEL Framework Annotations
+
+DEFINE ANNOTATION HemicAndImmuneSystem AS URL "http://resources.openbel.org/belframework/20150611/annotation/mesh-hemic-and-immune-system.belanno"
+DEFINE ANNOTATION UrogenitalSystem AS URL "http://resources.openbel.org/belframework/20150611/annotation/mesh-urogenital-system.belanno"
+DEFINE ANNOTATION FluidAndSecretion AS URL "http://resources.openbel.org/belframework/20150611/annotation/mesh-fluid-and-secretion.belanno"
+DEFINE ANNOTATION CellStructure AS  URL "http://resources.openbel.org/belframework/20150611/annotation/mesh-cell-structure.belanno"
+DEFINE ANNOTATION CellLine AS URL "http://resources.openbel.org/belframework/20150611/annotation/atcc-cell-line.belanno"
+DEFINE ANNOTATION IntegumentarySystem AS URL "http://resources.openbel.org/belframework/20150611/annotation/mesh-integumentary-system.belanno"
+DEFINE ANNOTATION DigestiveSystem AS URL "http://resources.openbel.org/belframework/20150611/annotation/mesh-digestive-system.belanno"
+DEFINE ANNOTATION MuskuloskeletalSystem AS URL "http://resources.openbel.org/belframework/20150611/annotation/mesh-musculoskeletal-system.belanno"
+DEFINE ANNOTATION Tissue AS URL "http://resources.openbel.org/belframework/20150611/annotation/mesh-tissue.belanno"
+DEFINE ANNOTATION BodyRegion AS URL "http://resources.openbel.org/belframework/20150611/annotation/mesh-body-region.belanno"
+DEFINE ANNOTATION Cell AS URL "http://resources.openbel.org/belframework/20150611/annotation/mesh-cell.belanno"
+DEFINE ANNOTATION NervousSystem AS URL "http://resources.openbel.org/belframework/20150611/annotation/mesh-nervous-system.belanno"
+DEFINE ANNOTATION SenseOrgan AS URL "http://resources.openbel.org/belframework/20150611/annotation/mesh-sense-organ.belanno"
+DEFINE ANNOTATION Disease AS URL "http://resources.openbel.org/belframework/20150611/annotation/mesh-disease.belanno"
+DEFINE ANNOTATION RespiratorySystem AS URL "http://resources.openbel.org/belframework/20150611/annotation/mesh-respiratory-system.belanno"
+DEFINE ANNOTATION Species AS URL "http://resources.openbel.org/belframework/20150611/annotation/species-taxonomy-id.belanno"
+DEFINE ANNOTATION CardiovascularSystem AS URL "http://resources.openbel.org/belframework/20150611/annotation/mesh-cardiovascular-system.belanno"
+DEFINE ANNOTATION EndocrineSystem AS  URL "http://resources.openbel.org/belframework/20150611/annotation/mesh-endocrine-system.belanno"
+
+# Other Annotations
+
+DEFINE ANNOTATION Gender AS URL "https://owncloud.scai.fraunhofer.de/index.php/s/JsfpQvkdx3Y5EMx/download?path=%2F&files=gender.belanno"
+DEFINE ANNOTATION Confidence AS URL "https://owncloud.scai.fraunhofer.de/index.php/s/JsfpQvkdx3Y5EMx/download?path=%2F&files=confidence.belanno"
+
+# List Annotations
+
+DEFINE ANNOTATION TextLocation AS LIST {"Abstract", "Results", "Legend", "Review"}
+
+
+###############################################################################
+# Statements
+###############################################################################
+
+p(HGNC:AKT1) -- p(HGNC:AKT2)
