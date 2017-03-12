@@ -1,0 +1,37 @@
+###############################################################################
+# Document Properties 
+###############################################################################
+
+SET DOCUMENT Name = "Fraunhofer SCAI Custom Equivalences"
+SET DOCUMENT Description = "Custom equivalences between namespaces produced by Fraunhofer SCAI and other standard namespaces"
+
+# The document version should adhere to semantic versioning
+# See http://semver.org/ for more information.
+SET DOCUMENT Version = "1.0.0"
+
+# Authors should be provided in a comma delimited string
+SET DOCUMENT Authors = "Charles Tapley Hoyt"
+
+# Contact info should be the email address of the responsible party for editing
+SET DOCUMENT ContactInfo = "charles.hoyt@scai.fraunhofer.de"
+
+SET DOCUMENT Copyright = ""
+
+# The default license is set to Creative Commons 4.0. This means that others are 
+# free to share and adapt this work, for any purpose. For more information, see:
+# https://creativecommons.org/licenses/by/4.0/
+SET DOCUMENT Licenses = "Creative Commons 4.0"
+
+###############################################################################
+# Definitions Section
+###############################################################################
+
+DEFINE NAMESPACE ADO AS URL "http://belief.scai.fraunhofer.de/openbel/repository/namespaces/ADO.belns"
+DEFINE NAMESPACE HGNC AS URL "http://resource.belframework.org/belframework/20150611/namespace/hgnc-human-genes.belns"
+
+###############################################################################
+# Statements
+###############################################################################
+
+p(HGNC:APP, frag(672_713)) equivalentTo a(ADO:"Abeta_42")
+p(HGNC:APP, frag(672_711)) equivalentTo a(ADO:"Abeta_40")
