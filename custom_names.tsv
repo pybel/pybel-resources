@@ -1,2 +1,3 @@
 BEL	Name
 p(HGNC:APP, frag(672_713))	Amyloid-beta 42
+p(HGNC:APP, frag(672_711))	Amyloid-beta 40
