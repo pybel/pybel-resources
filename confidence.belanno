@@ -20,6 +20,7 @@ DelimiterString=|
 CacheableFlag=yes
 
 [Values]
+Wrong|
 Very Low|
 Low|
 Medium|
