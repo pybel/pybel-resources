@@ -3,7 +3,7 @@ Keyword=GFAM
 NameString=HGNC Gene Families
 DomainString=Gene and Gene Products
 VersionString=1.0.0
-CreatedDateTime=2017-03-22T14:41:09
+CreatedDateTime=2017-03-22T15:14:00
 DescriptionString=HUGO Gene Nomenclature Committee (HGNC) curated gene families
 SpeciesString=9606
 
