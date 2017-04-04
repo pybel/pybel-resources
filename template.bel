@@ -72,8 +72,8 @@ DEFINE ANNOTATION Species AS URL "https://owncloud.scai.fraunhofer.de/index.php/
 
 # Other Annotations
 
-DEFINE ANNOTATION Gender AS URL "https://owncloud.scai.fraunhofer.de/index.php/s/JsfpQvkdx3Y5EMx/download?path=%2F&files=gender.belanno"
-DEFINE ANNOTATION Confidence AS URL "https://owncloud.scai.fraunhofer.de/index.php/s/JsfpQvkdx3Y5EMx/download?path=%2F&files=confidence.belanno"
+DEFINE ANNOTATION Gender AS URL "https://owncloud.scai.fraunhofer.de/index.php/s/JsfpQvkdx3Y5EMx/download?path=gender.belanno"
+DEFINE ANNOTATION Confidence AS URL "https://owncloud.scai.fraunhofer.de/index.php/s/JsfpQvkdx3Y5EMx/download?path=confidence.belanno"
 
 # List Annotations
 
