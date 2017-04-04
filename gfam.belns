@@ -3,7 +3,7 @@ Keyword=GFAM
 NameString=HGNC Gene Families
 DomainString=Gene and Gene Products
 VersionString=1.0.0
-CreatedDateTime=2017-03-22T15:14:00
+CreatedDateTime=2017-04-04T23:18:13
 DescriptionString=HUGO Gene Nomenclature Committee (HGNC) curated gene families
 SpeciesString=9606
 
@@ -163,7 +163,6 @@ C-C motif chemokine receptors|GPR
 C-X-3-C motif chemokine receptors|GPR
 C-X-C motif chemokine receptors|GPR
 C-type lectin domain containing|GPR
-C-type lectin domain family|GPR
 C1-set domain containing|GPR
 C1q and TNF related|GPR
 C2 and RasGAP domain containing|GPR
@@ -285,6 +284,7 @@ DNA glycosylases|GPR
 DNA helicases|GPR
 DNA ligases|GPR
 DNA polymerases|GPR
+DNA transposon derived genes|GPR
 DNAJ (HSP40) heat shock proteins|GPR
 Deafness associated genes|GPR
 Death associated protein kinases|GPR
@@ -324,6 +324,7 @@ Elongin complex|GPR
 Endogenous ligands|GPR
 Endothelin receptors|GPR
 Engulfment and cell motility proteins|GPR
+Envelope ERV derived genes|GPR
 Ephrins|GPR
 Erb-b2 receptor tyrosine kinases|GPR
 Erythrocyte membrane protein band 4.1|GPR
@@ -375,6 +376,7 @@ GOLD domain containing|GPR
 GPN-loop GTPases|GPR
 GRAM domain containing|GPR
 GTPases, IMAP|GPR
+Gag like LTR retrotransposon derived genes|GPR
 Galanin receptors|GPR
 Galectins|GPR
 Gamma-aminobutyric acid type A receptor subunits|GPR
@@ -424,6 +426,7 @@ Heat shock 70kDa proteins|GPR
 Heat shock 90kDa proteins|GPR
 Helix-turn-helix CENPB type domain containing|GPR
 Hemoglobin subunits|GPR
+Heparin binding growth factor family|GPR
 Histamine receptors|GPR
 Histatins and statherin|GPR
 Histocompatibility complex|GPR
@@ -755,6 +758,7 @@ Regulating synaptic membrane exocytosis family|GPR
 Regulators of G-protein signaling|GPR
 Regulatory factor X family|GPR
 Relaxin family peptide receptors|GPR
+Retrotransposon Gag like|GPR
 Rho GTPase activating proteins|GPR
 Rho family GTPases|GPR
 Rho guanine nucleotide exchange factors|GPR
@@ -769,6 +773,7 @@ S100 calcium binding proteins|GPR
 S100 fused type protein family|GPR
 SAGA complex|GPR
 SAM and SH3 domain containing|GPR
+SCAN domain containing|GPR
 SCF complex|GPR
 SCY1 like pseudokinases|GPR
 SEC14 family|GPR
