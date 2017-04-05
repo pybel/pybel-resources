@@ -54,12 +54,19 @@ DEFINE NAMESPACE SFAM AS URL "https://owncloud.scai.fraunhofer.de/index.php/s/Js
 
 DEFINE NAMESPACE ADO AS URL "http://belief.scai.fraunhofer.de/openbel/repository/namespaces/ADO.belns"
 DEFINE NAMESPACE PDO AS URL "http://belief.scai.fraunhofer.de/openbel/repository/namespaces/PDO.belns"
-DEFINE NAMESPACE dbSNP AS URL "http://belief.scai.fraunhofer.de/openbel/repository/namespaces/SNP.belns"
 DEFINE NAMESPACE PTS AS URL "http://belief.scai.fraunhofer.de/openbel/repository/namespaces/PTS.belns"
 DEFINE NAMESPACE NIFT AS URL "http://belief.scai.fraunhofer.de/openbel/repository/namespaces/NIFT.belns"
 DEFINE NAMESPACE BRCO AS URL "http://belief.scai.fraunhofer.de/openbel/repository/namespaces/BRCO.belns"
 
 DEFINE NAMESPACE PMIBP AS URL "http://belief.scai.fraunhofer.de/BeliefDashboard/dicten/namespaces/pmibp.belns"
+
+# Fraunhofer Namespaces
+
+DEFINE NAMESPACE GFAM AS URL "https://owncloud.scai.fraunhofer.de/index.php/s/JsfpQvkdx3Y5EMx/download?path=gfam.belns"
+
+# Regular Expression Namespaces
+
+DEFINE NAMESPACE dbSNP AS PATTERN "rs[0-9]+"
 
 # BEL Framework Annotations
 
