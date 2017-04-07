@@ -30,6 +30,7 @@ SET DOCUMENT Licenses = "Creative Commons 4.0"
 
 DEFINE NAMESPACE AFFX AS URL "https://owncloud.scai.fraunhofer.de/index.php/s/JsfpQvkdx3Y5EMx/download?path=affy-probeset-ids.belns"
 DEFINE NAMESPACE CHEBI AS URL "https://owncloud.scai.fraunhofer.de/index.php/s/JsfpQvkdx3Y5EMx/download?path=chebi.belns"
+DEFINE NAMESPACE CHEBIID AS URL "https://owncloud.scai.fraunhofer.de/index.php/s/JsfpQvkdx3Y5EMx/download?path=chebi-ids.belns"
 DEFINE NAMESPACE DO AS URL "https://owncloud.scai.fraunhofer.de/index.php/s/JsfpQvkdx3Y5EMx/download?path=disease-ontology.belns"
 DEFINE NAMESPACE EGID AS URL "https://owncloud.scai.fraunhofer.de/index.php/s/JsfpQvkdx3Y5EMx/download?path=entrez-gene-ids.belns"
 DEFINE NAMESPACE GOBPID AS URL "https://owncloud.scai.fraunhofer.de/index.php/s/JsfpQvkdx3Y5EMx/download?path=go-biological-process-ids.belns"
@@ -67,6 +68,7 @@ DEFINE NAMESPACE GFAM AS URL "https://owncloud.scai.fraunhofer.de/index.php/s/Js
 # Regular Expression Namespaces
 
 DEFINE NAMESPACE dbSNP AS PATTERN "rs[0-9]+"
+DEFINE NAMESPACE INCHI AS PATTERN "^((InChI=)?[^J][0-9a-z+\-\(\)\\\/,]+)$"
 
 # BEL Framework Annotations
 
