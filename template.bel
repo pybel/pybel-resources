@@ -87,10 +87,7 @@ DEFINE ANNOTATION Species AS URL "https://owncloud.scai.fraunhofer.de/index.php/
 
 DEFINE ANNOTATION Gender AS URL "https://owncloud.scai.fraunhofer.de/index.php/s/JsfpQvkdx3Y5EMx/download?path=gender.belanno"
 DEFINE ANNOTATION Confidence AS URL "https://owncloud.scai.fraunhofer.de/index.php/s/JsfpQvkdx3Y5EMx/download?path=confidence.belanno"
-
-# List Annotations
-
-DEFINE ANNOTATION TextLocation AS LIST {"Abstract", "Results", "Legend", "Review"}
+DEFINE ANNOTATION TextLocation AS URL "https://owncloud.scai.fraunhofer.de/index.php/s/JsfpQvkdx3Y5EMx/download?path=textlocation.belanno"
 
 ###############################################################################
 # Statements
