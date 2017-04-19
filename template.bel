@@ -43,7 +43,7 @@ DEFINE NAMESPACE MESHC AS URL "https://owncloud.scai.fraunhofer.de/index.php/s/J
 DEFINE NAMESPACE MESHCSID AS URL "https://owncloud.scai.fraunhofer.de/index.php/s/JsfpQvkdx3Y5EMx/download?path=mesh-cellular-structures-ids.belns"
 DEFINE NAMESPACE MESHCS AS URL "https://owncloud.scai.fraunhofer.de/index.php/s/JsfpQvkdx3Y5EMx/download?path=mesh-cellular-structures.belns"
 DEFINE NAMESPACE MESHDID AS URL "https://owncloud.scai.fraunhofer.de/index.php/s/JsfpQvkdx3Y5EMx/download?path=mesh-diseases-ids.belns"
-DEFINE NAMESPACE MESHD AS URL "https://owncloud.scai.fraunhofer.de/index.php/s/JsfpQvkdx3Y5EMx/download?path=mesh-diseases.belns"
+DEFINE NAMESPACE MESHD AS URL "https://owncloud.scai.fraunhofer.de/index.php/s/JsfpQvkdx3Y5EMx/download?path=meshc.belns"
 DEFINE NAMESPACE MESHPPID AS URL "https://owncloud.scai.fraunhofer.de/index.php/s/JsfpQvkdx3Y5EMx/download?path=mesh-processes-ids.belns"
 DEFINE NAMESPACE MESHPP AS URL "https://owncloud.scai.fraunhofer.de/index.php/s/JsfpQvkdx3Y5EMx/download?path=mesh-processes.belns"
 DEFINE NAMESPACE MGI AS URL "https://owncloud.scai.fraunhofer.de/index.php/s/JsfpQvkdx3Y5EMx/download?path=mgi-mouse-genes.belns"
