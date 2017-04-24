@@ -2,8 +2,8 @@
 Keyword=GFAM
 NameString=HGNC Gene Families
 DomainString=Gene and Gene Products
-VersionString=1.0.0
-CreatedDateTime=2017-04-04T23:18:13
+VersionString=20170424
+CreatedDateTime=2017-04-24T12:08:12
 DescriptionString=HUGO Gene Nomenclature Committee (HGNC) curated gene families
 SpeciesString=9606
 
@@ -21,6 +21,7 @@ DelimiterString=|
 CacheableFlag=yes
 
 [Values]
+m6A methyltransferase complex|GPR
 1-acylglycerol-3-phosphate O-acyltransferases|GPR
 14-3-3 phospho-serine/phospho-threonine binding proteins|GPR
 18S ribosomal RNAs|GPR
@@ -322,6 +323,7 @@ EYA transcriptional coactivator and phosphatases|GPR
 Elongator acetyltransferase complex|GPR
 Elongin complex|GPR
 Endogenous ligands|GPR
+Endosome-associated recycling protein (EARP) complex|GPR
 Endothelin receptors|GPR
 Engulfment and cell motility proteins|GPR
 Envelope ERV derived genes|GPR
@@ -361,6 +363,11 @@ Fos transcription factor family|GPR
 Free fatty acid receptors|GPR
 Fructose-1,6-bisphosphatases|GPR
 Fucosyltransferases|GPR
+G protein subunits alpha, group i|GPR
+G protein subunits alpha, group q|GPR
+G protein subunits alpha, group s|GPR
+G protein subunits beta|GPR
+G protein subunits gamma|GPR
 G protein-coupled bile acid receptor|GPR
 G protein-coupled estrogen receptor|GPR
 G protein-coupled receptors, Class A orphans|GPR
@@ -408,6 +415,7 @@ Glycosyltransferase family 6|GPR
 Glycosyltransferase family 8|GPR
 Glycosyltransferase family 90|GPR
 Glypicans|GPR
+Golgi associated retrograde protein (GARP) complex|GPR
 Golgi associated, gamma adaptin ear containing, ARF binding proteins|GPR
 Gonadotropin releasing hormone receptors|GPR
 Granins|GPR
@@ -767,6 +775,7 @@ Ribonuclease A family|GPR
 Ribosomal 45S RNA clusters|GPR
 Ring finger proteins|GPR
 Ripoptosome|GPR
+Roco domain containing|GPR
 Ryanodine receptors|GPR
 S ribosomal proteins|GPR
 S100 calcium binding proteins|GPR
