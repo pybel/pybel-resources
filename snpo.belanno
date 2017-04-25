@@ -2,12 +2,13 @@
 Keyword=SNPO
 TypeString=list
 VersionString=20170425
-CreatedDateTime=2017-04-25T10:23:50
-DescriptionString='A formal ontology is proposed as a means for guiding data selection and for semantically integrating data about genomic variations. The designed SNP-Ontology is used for initializing a SNP-dedicated knowledge base which integrates information on genomic variations whatever their original representations.'
+CreatedDateTime=2017-04-25T10:28:38
+DescriptionString=A formal ontology is proposed as a means for guiding data selection and for semantically integrating data about genomic variations. The designed SNP-Ontology is used for initializing a SNP-dedicated knowledge base which integrates information on genomic variations whatever their original representations.
 
 [Author]
 NameString=cthoyt
 CopyrightString=Other/Proprietary
+ContactInfoString=https://github.com/cthoyt/bio2owl/tree/master/bio2owl_snpo
 
 [Citation]
 NameString=https://hal.inria.fr/inria-00067863
