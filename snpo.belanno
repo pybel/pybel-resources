@@ -1,0 +1,85 @@
+[AnnotationDefinition]
+Keyword=SNPO
+TypeString=list
+VersionString=20170425
+CreatedDateTime=2017-04-25T10:23:50
+DescriptionString='A formal ontology is proposed as a means for guiding data selection and for semantically integrating data about genomic variations. The designed SNP-Ontology is used for initializing a SNP-dedicated knowledge base which integrates information on genomic variations whatever their original representations.'
+
+[Author]
+NameString=cthoyt
+CopyrightString=Other/Proprietary
+
+[Citation]
+NameString=https://hal.inria.fr/inria-00067863
+
+[Processing]
+CaseSensitiveFlag=yes
+DelimiterString=|
+CacheableFlag=yes
+
+[Values]
+aa_sequence|A sequence composed of one or several amino-acids. Ex: a protein
+aa_variation|It is the variation of residues observed between the 2 patients (reference sequence  and the alternative sequence - if it's possible to talk about a "reference") when a genomic variation is described at the proteic level. Ex: Ser>Thr
+amino_acid|
+assembly|A sequence of nucleotides that has been algorithmically derived from an alignment of two or more different sequences.Source: SO
+cds|It's the coding DNA sequence, starting from ATG (translation start) to the stop codon.
+chromosome|A chromosome is a large macromolecule into which DNA is normally packaged in a cell. Minimally, it is a very long, continuous piece of DNA (a single DNA molecule), which contains many genes, regulatory elements and other intervening nucleotide sequences.Defintion from http://en.wikipedia.org/wiki/Chromosome
+cnvr|copy number variable regionCf. Redon et al. Nature, 444, 23 Nov. 2006
+coding_variant|Their are variants located in coding sequence ie in cds. = variants located in translated codons. NB: Coding sequence can not be simplify to exons. It is exon minus 5'UTR and 3'UTR.
+codon|A codon is a sequence of three nucleotides that codes for an amino acid residue in a protein depending to the genetic code.
+contig|In shotgun DNA sequencing projects, a contig (from contiguous) is a set of overlapping DNA segments derived from a single genetic source. A contig in this sense can be used to deduce the original DNA sequence of the source. This meaning of contig is in accordance with the original definition by Staden [1979].Defintion from http://en.wikipedia.org/wiki/Contig
+database|Databases are biological data sources publicly available or not.
+dbsnp|dbSNP is the SNP database of the NCBI. Any individual is a particular version of dbSNP. Query it at http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?db=snp  ;also downloadable at ftp://ftp.ncbi.nih.gov/snp/
+dna_sequence|A DNA sequence i.e. an ACTG composed nucleotide sequence (at least one nucleotide).Ex: a chromosome, a gene, an exon, etc.
+exon|An exon is any region of DNA within a gene, that is transcribed to the final messenger RNA (mRNA) molecule, rather than being spliced out from the transcribed RNA molecule. Exons of many eukaryotic genes interleave with segments of non-coding DNA (introns). The term "exon" was coined by Walter Gilbert in 1978.Definition from http://en.wikipedia.org/wiki/Exon
+gene|
+generic_variant_db|There are generic (not specialized) databases on genomic variations.
+genome|A whole genome.Ex: The human genomeThe whole hereditary information of an organism that is encoded in the DNA (or, for some viruses, RNA). This includes both the genes and the non-coding sequences of the DNA.Definition from http://en.wikipedia.org/wiki/Genome
+genomic_region|Is one portion of a, or the whole, genome.
+haplotype|Haplotype is a set of single nucleotide polymorphisms (SNPs) on a single chromatid that are statistically associated.Source: wikipedia
+haplotype block|A set of consecutive sites between which there is little or no evidence of historical recombination.
+haplotype_member|
+hapmap|A public resource that will help researchers find genes associated with human disease and response to pharmaceuticals by providing data about human haplotypes.http://www.hapmap.org/
+hgvbase|A catalog of normal human gene and genome variation, useful as a research tool to help define the genetic component of human phenotypic variation.http://hgvbase.cgb.ki.se/
+inserm_mut|A private database owned by the INSERM embedding mutation located on the LDLR gene (Chr19) known to be involved in familial hypercholesterolemia.
+inserm_snp|A private database owned by the INSERM embedding genomic variation (with no known effect) located on the LDLR gene (Chr19).
+intron|Introns are sections of DNA that will be spliced out after transcription, but before the RNA is used.Definition from http://en.wikipedia.org/wiki/Intron
+locus_specific_variant_db|There are specialized databases on genomic variations. i.e. specialized on one specific locus, on one specific disease, etc..
+mature_mrna|Messenger Ribonucleic Acid (mRNA) is RNA that encodes and carries information from DNA during transcription to sites of protein synthesis to undergo translation in order to yield a gene product.  Mature messenger RNA, often abbreviated as mature mRNA is a eukaryotic RNA transcript that has been spliced and processed and is ready for translation in the course of protein synthesis.Defintions from http://en.wikipedia.org/wiki/Mrna
+ncbi_nucleotide|Its the subdivision of GenBank embedding nucleotide sequences. Query it from NCBI web site at http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?db=Nucleotide
+non_coding_variant|
+nucleotide|The monomeric units from which DNA or RNA polymers are constructed. They consist of a purine or pyrimidine base, a pentose sugar, and a phosphate group. (From King & Stansfield, A Dictionary of Genetics, 4th ed)MESH:D.09.203.408.620
+nucleotide_sequence|A sequence composed of one or several nucleotides. Ex: a chromosome, a gene, an exon, etc.
+nucleotide_variation|It is the variation of nucleotides observed between the 2 patients (reference sequence  and the alternative sequence - if it's possible to talk about a "reference") when a genomic variation is described at the nucleotide level. Ex: A>C
+observed allele|An allele observed in someone, or ina group for an identified variant.Used to distinguish variant definition (observed_variation) from genotyping in patient or in haplotype.
+observed_variation|It is the variation (of nucleotides or of residues) observed between the 2 patients (reference sequence  and the alternative sequence - if it's possible to talk about a "reference") when a genomic variation is described. Ex: A>C, CT>A, Ser>Thr, etc.
+omim|This database is a catalog of human genes and genetic disorders. It embeds information about allelic variations involved in this disorders.http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?db=OMIM
+organism|An organism.Ex: Homo spaiens, Escherischia Coli, Arabidopsis Thaliana, etc.
+pharmgkb|PharmGKB curates information that establishes knowledge about the relationships among drugs, diseases and genes, including their variations and gene products. http://www.pharmgkb.org/
+population|A group of indivdual.
+promotor|A promoter is a DNA sequence that enables a gene to be transcribed. The promoter is recognized by RNA polymerase, which then initiates transcription.Defintion from http://en.wikipedia.org/wiki/Promotor
+protein|Proteins are large organic compounds made of amino acids arranged in a linear chain.
+protein_conserved_domain|Proteins can be grouped together in families where all members have the same, or similar, function and are descended from a common ancestor. Proteins from the same family are usually composed of highly conserved sequence segments separated by regions of different lengths and little sequence similarity. These conserved sequence segments, called motifs, are typically 6-30 aa long and correspond to active sites, substrate or ligand binding sites, and structurally important segments of proteins.Defintion from Shmuel Pietrokovski
+protein_domain|A structural domain ("domain") is an element of overall structure that is self-stabilizing and often folds independently of the rest of the protein chain.Definition from http://en.wikipedia.org/wiki/Structural_domain
+protein_region|Is one portion of a, or an entire protein.
+reference_variant|Because one genomic variation could be represented in diferrent way (e.g.  positionnned on different sequence, represented at the nucleotide or proteic level, etc.), several variant may refer to the same entity ; tit is interesting to have a reference variant. In our point of view, the reference variant is the one described at the genomic level on the complete chromosome sequence (of the current genome assembly).Ex: on the NC_000019.8 sequence
+regulatory_region|A DNA sequence that controls the expression of a gene. Source: SO
+repeated_segment|A repeated segment is a genome portion where the sequence displays some repeatitve patterns (repeatitive sequences as satellites, microsatellites, ALU repeats, etc.)
+rna_sequence|A RNA sequence i.e. an ACTU composed nucleotide sequence (at least one nucleotide).Ex: an mRNA
+sequence|The sequence concept represents something that could be a organized succession of nucleotide or amino-acid and then could be divided in nucleotide sequences and amino-acid sequences. A sequence could be associated  to its corresponding entry in a sequence database.
+sequence_database|There are biological databases embedding data about sequences (nucleotide or proteic sequences).
+sequence_position|It is a position on a sequence. Then it embeds a begin start position and an end. It should be describing the position of a subsequence in a larger sequence or the position of a variation in a sequence.NB: for a SNP the start and the stop position are the same.The start position is the first nucleotide (respectivly residue) after the 5' flanking sequence, and the stop position is the position before the first nucleotide of the 3' flanking sequence.
+snp_captured_by_proxy|
+tag_snp|
+terminator|A terminator marks the end of a gene on the DNA for transcription.Defintition from http://en.wikipedia.org/wiki/Terminator
+transcript|There are first products of transcription, before the splicing.
+transcript_region|Is one portion of a, or an enire, transcript (unmature) or mRNA (mature).
+translation_start|The first codon translated: ATG.
+translation_stop|The stop codon: UAA or UAG or UAA for the human genetic code.
+ucl_ldlr|A public database on mutations and polymorphisms of the LDLR gene.http://www.ucl.ac.uk/fh/
+umd_ldlr|A public database on mutations and polymorphisms of the LDLR gene.http://www.umd.be:2078/
+uncaptured_snp|
+utr_3_prime|3'UTRtranscripted untranslated region in 3'In mRNA, anything beyond this stop codon is part of the three prime untranslated region.
+utr_5_prime|5' UTR: The five prime untranslated region (5' UTR) is a particular section of messenger RNA (mRNA). It precedes the translation initiation site of the gene, bounded on the 5' end by the start of transcription and on the 3' end by the start codon. Definition from http://en.wikipedia.org/wiki/5%27_UTR
+variant|A variant is a genomic variation description at the nucleotide or proteic level. It is defined by a position on a sequence.  This sequence could be either a nucleotide sequence if the observed variation is a nucleotide variation, either a residue change if the observed variation is an residue variation. At the precised position is observed a variation (the observed variation) in the sequence respectively to a "reference" (or "known") sequence.
+variant_database|There are biological databases embedding data about genomic variations.
