@@ -1,0 +1,27 @@
+[Namespace]
+Keyword=EPT
+NameString=Epilepsy Terminology
+DomainString=Other
+SpeciesString=9606, 10090, 10116
+DescriptionString= Epilepsy terminology developed in scai.
+VersionString=20170430
+CreatedDateTime=2017-04-30T16:15:00
+
+[Author]
+NameString=SCAI
+CopyrightString=cc by 4.0
+ContactInfoString=alpha.tom.kodamullil@scai.fraunhofer.de
+
+[Citation]
+NameString=Epilepsy Terminology SCAI
+DescriptionString=Epilepsy Terminology
+PublishedVersionString=20170430
+PublishedDate=22017-04-30
+
+[Processing]
+CaseSensitiveFlag=yes
+DelimiterString=|
+CacheableFlag=yes
+
+[Values]
+epileptogenesis|B
