@@ -2,8 +2,8 @@
 Keyword=CHEBIID
 NameString=ChEBI Identifiers
 DomainString=Chemical
-VersionString=20170430
-CreatedDateTime=2017-04-30T21:21:47
+VersionString=20170501
+CreatedDateTime=2017-05-01T00:04:00
 DescriptionString=This namespace was serialized by PyBEL Tools
 
 [Author]
