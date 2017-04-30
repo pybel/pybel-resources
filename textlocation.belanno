@@ -3,7 +3,7 @@ Keyword=TextLocation
 TypeString=list
 DescriptionString=The annotation values for text location
 UsageString=Use this annotation to indicate the section in a paper from which the following evidence and BEL statements originate
-VersionString=1.0
+VersionString=20170430
 CreatedDateTime=2017-01-22T12:00:00
 
 [Author]
