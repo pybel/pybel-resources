@@ -3,7 +3,7 @@ Keyword=CHEBI
 NameString=ChEBI Names
 DomainString=Chemical
 VersionString=20170430
-CreatedDateTime=2017-04-30T21:03:26
+CreatedDateTime=2017-04-30T21:21:48
 DescriptionString=This namespace was serialized by PyBEL Tools
 
 [Author]
