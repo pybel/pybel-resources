@@ -2,8 +2,8 @@
 Keyword=GFAM
 NameString=HGNC Gene Families
 DomainString=Gene and Gene Products
-VersionString=20170424
-CreatedDateTime=2017-04-24T12:08:12
+VersionString=20170430
+CreatedDateTime=2017-04-30T21:46:54
 DescriptionString=HUGO Gene Nomenclature Committee (HGNC) curated gene families
 SpeciesString=9606
 
@@ -64,6 +64,7 @@ Abhydrolase domain containing|GPR
 Acid phosphatases|GPR
 Acid sensing ion channel subunits|GPR
 Actin related protein 2/3 complex|GPR
+Actin related proteins|GPR
 Actinins|GPR
 Actins|GPR
 Activating leukocyte immunoglobulin like receptors|GPR
