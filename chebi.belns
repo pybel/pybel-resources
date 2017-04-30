@@ -2,8 +2,9 @@
 Keyword=CHEBI
 NameString=ChEBI Names
 DomainString=Chemical
-VersionString=20170428
-CreatedDateTime=2017-04-28T22:49:33
+VersionString=20170430
+CreatedDateTime=2017-04-30T21:03:26
+DescriptionString=This namespace was serialized by PyBEL Tools
 
 [Author]
 NameString=Charles Tapley Hoyt
