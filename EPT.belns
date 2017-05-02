@@ -24,5 +24,16 @@ DelimiterString=|
 CacheableFlag=yes
 
 [Values]
-epileptogenesis|B
-granule cell dispersion|B
+epileptogenesis|OGRPBCAM
+granule cell dispersion|OGRPBCAM
+generation of fast sodium current|OGRPBCAM
+generation of fast natrium current|OGRPBCAM
+generation of late sodium current|OGRPBCAM
+generation of T-type calcium current|OGRPBCAM
+generation of P/Q-type calcium current|OGRPBCAM
+generation of R-type calcium current|OGRPBCAM
+generation of A-type potassium current|OGRPBCAM
+generation of M-type potassium current|OGRPBCAM
+generation of potassium current|OGRPBCAM
+generation of Ih current|OGRPBCAM
+glycine homeostasis|OGRPBCAM
