@@ -61,6 +61,7 @@ Complement system subgraph|
 Cyclic AMP subgraph|
 Cyclin-CDK subgraph|
 Cytokine signaling subgraph|
+DKK1 subgraph|
 DNA synthesis|
 DYRK1A subgraph|
 Disaccharide metabolism subgraph|
@@ -91,7 +92,6 @@ Inflammatory response subgraph|
 Innate immune system subgraph|
 Insulin signal transduction|
 Interferon signaling subgraph|
-Interleukin mediated signaling subgraph|
 Interleukin signaling subgraph|
 JAK-STAT signaling subgraph|
 KANSL1 subgraph|
