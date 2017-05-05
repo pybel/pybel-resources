@@ -10,13 +10,13 @@ CreatedDateTime=2017-04-30T16:15:00
 [Author]
 NameString=SCAI
 CopyrightString=cc by 4.0
-ContactInfoString=alpha.tom.kodamullil@scai.fraunhofer.de
+ContactInfoString=nora.filep@scai.fraunhofer.de
 
 [Citation]
 NameString=Epilepsy Terminology SCAI
 DescriptionString=Epilepsy Terminology
 PublishedVersionString=20170430
-PublishedDate=22017-04-30
+PublishedDate=2017-04-30
 
 [Processing]
 CaseSensitiveFlag=yes
@@ -42,3 +42,4 @@ gliotransmission|OGRPBCAM
 EEG, centrotemporal focal sharp waves|OGRPBCAM
 estradiol-progesterone ratio|OGRPBCAM
 seizure|OGRPBCAM
+tricyclic antidepressant|A
