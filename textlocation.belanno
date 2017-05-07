@@ -12,7 +12,7 @@ CopyrightString=Charles Tapley Hoyt (c) 2017. This work is licensed under a Crea
 ContactInfoString=charles.hoyt@scai.fraunhofer.de
 
 [Citation]
-NameString=Gender
+NameString=Text Location
 
 [Processing]
 CaseSensitiveFlag=no
