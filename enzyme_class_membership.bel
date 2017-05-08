@@ -1,4 +1,4 @@
-# This document was created by PyBEL v0.1.11.dev0 on Mon May  8 10:52:17 2017
+# This document was created by PyBEL v0.1.11.dev0 on Mon May  8 10:55:02 2017
 
 ################################################################################
 # Metadata
@@ -25,6 +25,10 @@ DEFINE NAMESPACE HGNC AS URL "https://owncloud.scai.fraunhofer.de/index.php/s/Js
 ################################################################################
 
 DEFINE ANNOTATION Confidence AS URL "https://owncloud.scai.fraunhofer.de/index.php/s/JsfpQvkdx3Y5EMx/download?path=confidence.belanno"
+
+################################################################################
+# Statements
+################################################################################
 
 SET Citation = {"PubMed","HGNC","25361968"}
 SET Evidence = "HGNC Definitions"
