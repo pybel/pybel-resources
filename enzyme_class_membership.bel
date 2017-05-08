@@ -9,7 +9,7 @@ SET DOCUMENT Description = "This BEL document represents the memberships of HGNC
 SET DOCUMENT Version = "20170508"
 SET DOCUMENT Authors = "Charles Tapley Hoyt"
 SET DOCUMENT ContactInfo = "charles.hoyt@scai.fraunhofer.de"
-SET DOCUMENT License = "Creative Commons by 4.0"
+SET DOCUMENT Licenses = "Creative Commons by 4.0"
 
 ################################################################################
 # Namespaces
