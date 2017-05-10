@@ -70,7 +70,7 @@ DEFINE NAMESPACE GFAM AS URL "https://owncloud.scai.fraunhofer.de/index.php/s/Js
 
 DEFINE NAMESPACE dbSNP AS PATTERN "rs[0-9]+"
 # See: https://gist.github.com/lsauer/1312860
-DEFINE NAMESPACE InChI AS PATTERN "^((InChI=)?[^J][0-9BCOHNSOPrIFla+\-\(\)\\\/,pqbtmsih]{6,})$"
+DEFINE NAMESPACE InChI AS PATTERN "InChI=1S\/([^\/]+)(?:\/[^\/]+)*"
 
 # BEL Framework Annotations
 
