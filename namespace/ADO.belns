@@ -4,7 +4,7 @@ NameString=Alzheimer's Disease Ontology
 DomainString=Other
 SpeciesString=9606, 10090, 10116
 DescriptionString=Alzheimer's Disease Ontology
-VersionString=20170507
+VersionString=1.0.1
 CreatedDateTime=2012-06-19T16:15:00
 
 [Author]
