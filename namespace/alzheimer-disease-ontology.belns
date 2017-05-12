@@ -4,7 +4,7 @@ NameString=Alzheimer's Disease Ontology
 DomainString=Other
 SpeciesString=9606, 10090, 10116
 DescriptionString=Alzheimer's Disease Ontology
-VersionString=1.0.1
+VersionString=1.0.2
 CreatedDateTime=2012-06-19T16:15:00
 
 [Author]
@@ -14,7 +14,7 @@ ContactInfoString=alpha.tom.kodamullil@scai.fraunhofer.de
 
 [Citation]
 NameString=ADO: a disease ontology representing the domain knowledge specific to Alzheimer's disease.
-DescriptionString=ADO was developed with the purpose of containing information relevant to four main biological views-preclinical, clinical, etiological, and molecular/cellular mechanisms-and was enriched by adding synonyms and references. Validation of the lexicalized ontology by means of named entity recognition-based methods showed a satisfactory performance (F score = 72%). In addition to structural and functional evaluation, a clinical expert in the field performed a manual evaluation and curation of ADO. Through integration of ADO into an information retrieval environment, we show that the ontology supports semantic search in scientific text. The usefulness of ADO is authenticated by dedicated use case scenarios.
+DescriptionString=ADO was developed with the purpose of containing information relevant to four main biological views-preclinical, clinical, etiological, and molecular/cellular mechanisms-and was enriched by adding synonyms and references. Validation of the lexicalized ontology by means of named entity recognition-based methods showed a satisfactory performance (F-score = .72). In addition to structural and functional evaluation, a clinical expert in the field performed a manual evaluation and curation of ADO. Through integration of ADO into an information retrieval environment, we show that the ontology supports semantic search in scientific text. The usefulness of ADO is authenticated by dedicated use case scenarios.
 ReferenceURL=https://www.ncbi.nlm.nih.gov/pubmed/23830913
 PublishedVersionString=20140310
 PublishedDate=2014-03-10
