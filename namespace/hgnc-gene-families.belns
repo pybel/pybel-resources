@@ -2,14 +2,14 @@
 Keyword=GFAM
 NameString=HGNC Gene Families
 DomainString=Gene and Gene Products
-VersionString=20170430
-CreatedDateTime=2017-04-30T21:46:54
+VersionString=20170515
+CreatedDateTime=2017-05-15T11:50:35
 DescriptionString=HUGO Gene Nomenclature Committee (HGNC) curated gene families
 SpeciesString=9606
 
 [Author]
 NameString=Charles Tapley Hoyt
-CopyrightString=WTF License
+CopyrightString=Creative Commons by 4.0
 ContactInfoString=charles.hoyt@scai.fraunhofer.de
 
 [Citation]
@@ -202,7 +202,6 @@ Cannabinoid receptors|GPR
 Canonical high mobility group|GPR
 Carbonic anhydrases|GPR
 Carboxylesterases|GPR
-Carboxypeptidases|GPR
 Carcinoembryonic antigen related cell adhesion molecule family|GPR
 Cas scaffolding proteins|GPR
 Caspase recruitment domain containing|GPR
@@ -230,6 +229,7 @@ Class III Cys-based CDC25 phosphatases|GPR
 Classical BAR domain containing|GPR
 Classical arrestins|GPR
 Claudins|GPR
+Cleavage stimulation factor subunits|GPR
 Clustered protocadherins|GPR
 Cohesin complex|GPR
 Coiled-coil-helix-coiled-coil-helix domain containing|GPR
@@ -241,6 +241,7 @@ Competing endogenous long non-coding RNAs|GPR
 Complement component GPCRs|GPR
 Complement system|GPR
 Components of oligomeric golgi complex|GPR
+Condensin II|GPR
 Copines|GPR
 Cornified envelope precursor family|GPR
 Coronins|GPR
@@ -354,6 +355,7 @@ Fatty acid desaturases|GPR
 Fatty acid hydroxylase domain containing|GPR
 Ferlin family|GPR
 Fermitins|GPR
+Ferritin subunits|GPR
 Fibrinogen C domain containing|GPR
 Fibronectin type III domain containing|GPR
 Fibulins|GPR
@@ -453,6 +455,8 @@ I-BAR domain containing|GPR
 I-set domain containing|GPR
 INO80 complex|GPR
 IZUMO family|GPR
+Ig-like cell adhesion molecule family|GPR
+IgCAM CXADR-related subfamily|GPR
 IgLON cell adhesion molecules|GPR
 Immunoglobulin heavy (IGH) orphons|GPR
 Immunoglobulin heavy locus at 14q32.33|GPR
@@ -488,6 +492,7 @@ Keratins, type II|GPR
 Killer cell immunoglobulin like receptors|GPR
 Killer cell lectin like receptors|GPR
 Kinesins|GPR
+Kleisins|GPR
 Kruppel like factors|GPR
 L ribosomal proteins|GPR
 LEM domain containing|GPR
@@ -517,6 +522,8 @@ Lysine methyltransferases|GPR
 Lysophosphatidic acid receptors|GPR
 Lysozymes, c-type|GPR
 Lysozymes, g-type|GPR
+M10 matrix metallopeptidases|GPR
+M14 carboxypeptidases|GPR
 MADS box family|GPR
 MAGE family|GPR
 MAP kinase phosphatases|GPR
@@ -539,7 +546,6 @@ Mannosidases alpha class 2|GPR
 Mannosidases endo-alpha|GPR
 Mannosidases type beta|GPR
 Mannosyl-glycoprotein N-acetylglucosaminyltransferases|GPR
-Matrix metallopeptidases|GPR
 Mediator complex|GPR
 Melanin concentrating hormone receptors|GPR
 Melanocortin receptors|GPR
@@ -852,7 +858,6 @@ Sp transcription factors|GPR
 Spectrin repeat containing nuclear envelope family|GPR
 Spectrins|GPR
 Speedy/RINGO cell cycle regulator family|GPR
-Spermatogenesis associated|GPR
 Sphingosine 1-phosphate receptors|GPR
 Sphingosine-1-phosphate phosphatases|GPR
 Spindlin family|GPR
