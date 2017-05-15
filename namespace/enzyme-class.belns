@@ -2,9 +2,9 @@
 Keyword=EC
 NameString=Enzyme Commission Names
 DomainString=Gene and Gene Products
-VersionString=20170508
-CreatedDateTime=2017-05-08T10:55:02
-DescriptionString=Enzyme Commission Names
+VersionString=20170515
+CreatedDateTime=2017-05-15T13:18:44
+DescriptionString=Enzyme Commission Names extracted from the HGNC mapping
 SpeciesString=9606
 
 [Author]

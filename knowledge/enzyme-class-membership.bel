@@ -1,4 +1,4 @@
-# This document was created by PyBEL v0.1.11.dev0 on Mon May  8 10:55:02 2017
+# This document was created by PyBEL v0.1.11.dev0 on Mon May 15 13:18:44 2017
 
 ################################################################################
 # Metadata
@@ -6,10 +6,11 @@
 
 SET DOCUMENT Name = "Enzyme Class Memberships"
 SET DOCUMENT Description = "This BEL document represents the memberships of HGNC proteins to Enzyme Classes"
-SET DOCUMENT Version = "20170508"
+SET DOCUMENT Version = "20170515"
 SET DOCUMENT Authors = "Charles Tapley Hoyt"
 SET DOCUMENT ContactInfo = "charles.hoyt@scai.fraunhofer.de"
 SET DOCUMENT Licenses = "Creative Commons by 4.0"
+SET DOCUMENT Copyright = "Copyright (c) 2017 Charles Tapley Hoyt. All rights reserved"
 
 ################################################################################
 # Namespaces
@@ -17,8 +18,11 @@ SET DOCUMENT Licenses = "Creative Commons by 4.0"
 
 # Enumerated Namespaces
 
-DEFINE NAMESPACE EC AS URL "https://owncloud.scai.fraunhofer.de/index.php/s/JsfpQvkdx3Y5EMx/download?path=enzyme_class.belns"
-DEFINE NAMESPACE HGNC AS URL "https://owncloud.scai.fraunhofer.de/index.php/s/JsfpQvkdx3Y5EMx/download?path=hgnc-human-genes.belns"
+DEFINE NAMESPACE HGNC AS URL "https://arty.scai.fraunhofer.de/artifactory/bel/namespace/hgnc-gene-families/hgnc-gene-families-20170515.belns"
+
+# Regular Expression Namespaces
+
+DEFINE NAMESPACE EC AS PATTERN "(\d+|\-)\.((\d+)|(\-))\.(\d+|\-)(\.(n)?(\d+|\-))*"
 
 ################################################################################
 # Annotations
