@@ -1,4 +1,4 @@
-# This document was created by PyBEL v0.1.11.dev0 on Mon May 15 12:19:23 2017
+# This document was created by PyBEL v0.1.11.dev0 on Mon May 15 12:23:47 2017
 
 ################################################################################
 # Metadata
@@ -18,13 +18,14 @@ SET DOCUMENT Copyright = "Copyright (c) 2017 Charles Tapley Hoyt. All Rights Res
 
 # Enumerated Namespaces
 
-DEFINE NAMESPACE GFAM AS URL "https://arty.scai.fraunhofer.de/artifactory/bel/namespace/hgnc-gene-families/hgnc-gene-families-20170430.belns"
+DEFINE NAMESPACE GFAM AS URL "https://arty.scai.fraunhofer.de/artifactory/bel/namespace/hgnc-gene-families/hgnc-gene-families-20170515.belns"
 DEFINE NAMESPACE HGNC AS URL "https://arty.scai.fraunhofer.de/artifactory/bel/namespace/hgnc-human-genes/hgnc-human-genes-20170511.belns"
 
 ################################################################################
 # Annotations
 ################################################################################
 
+DEFINE ANNOTATION Confidence AS URL "https://owncloud.scai.fraunhofer.de/index.php/s/JsfpQvkdx3Y5EMx/download?path=confidence.belanno"
 
 ################################################################################
 # Statements
@@ -32,6 +33,7 @@ DEFINE NAMESPACE HGNC AS URL "https://arty.scai.fraunhofer.de/artifactory/bel/na
 
 SET Citation = {"PubMed","HGNC","25361968"}
 SET Evidence = "HGNC Definitions"
+SET Confidence = "Axiomatic"
 g(HGNC:METTL3) isA g(GFAM:"m6A methyltransferase complex")
 g(HGNC:METTL14) isA g(GFAM:"m6A methyltransferase complex")
 g(HGNC:WTAP) isA g(GFAM:"m6A methyltransferase complex")
