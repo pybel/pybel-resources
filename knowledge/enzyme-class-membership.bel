@@ -1,4 +1,4 @@
-# This document was created by PyBEL v0.1.11.dev0 on Mon May 15 13:18:44 2017
+# This document was created by PyBEL v0.1.11.dev0 on Mon May 15 13:28:00 2017
 
 ################################################################################
 # Metadata
@@ -18,7 +18,7 @@ SET DOCUMENT Copyright = "Copyright (c) 2017 Charles Tapley Hoyt. All rights res
 
 # Enumerated Namespaces
 
-DEFINE NAMESPACE HGNC AS URL "https://arty.scai.fraunhofer.de/artifactory/bel/namespace/hgnc-gene-families/hgnc-gene-families-20170515.belns"
+DEFINE NAMESPACE HGNC AS URL "https://arty.scai.fraunhofer.de/artifactory/bel/namespace/hgnc-human-genes/hgnc-human-genes-20170511.belns"
 
 # Regular Expression Namespaces
 
