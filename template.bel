@@ -1,1 +1,7 @@
-# Please see http://pybel.scai.fraunhofer.de/curation/bel/template to generate a template BEL document.
+# Notice
+#
+# In lieu of providing a template BEL document, we provide two alternative resources:
+#
+# 1. A template BEL document can be generated and auto-populated with the web service at http://pybel.scai.fraunhofer.de/curation/bel/template
+# 2. The resources distributed by Fraunhofer SCAI can be explored at https://arty.scai.fraunhofer.de/artifactory/bel/
+#
