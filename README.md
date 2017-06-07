@@ -2,27 +2,26 @@
 
 This repository is a location for keeping curated resources under version-control.
 
-## Namespaces and Annotations
 
-### Updating
+## Usage
 
-After making updates to namespaces and annotations in this GitHub repository, the files need to be copied to the underlying 
-ownCloud folder to be distributed by Fraunhofer SCAI.
+This repository is a solution for keeping curated BEL resources under version control. When an appropriate
+number of updates are made to a namespace or an annotation, they are given a new version number and copied
+to Fraunhofer SCAI's instance of Artefactory for distribution at 
+`https://arty.scai.fraunhofer.de/artifactory/bel/`
 
-### Access
+## BEL Template
 
-Definitions stored in ownCloud and can be accessed by the following URL pattern:
+A BEL template can be generated at http://pybel.scai.fraunhofer.de/curation/bel/template with automatic
+population of document metadata, namespace definitions, and annotation definitions.
 
-`https://owncloud.scai.fraunhofer.de/index.php/s/JsfpQvkdx3Y5EMx/download?path=selventa-protein-families.belns`
+## Manifest
 
-where `selventa-protein-families.belns` can be replaced with any of the definition files' names. See `template.bel` for a 
-full list of namespaces and annotations.
-
-## Contextual Information
+### Contextual Information
 
 - Custom Equivalences
 - Custom Names 
 
-## Derived Knowledge
+### Derived Knowledge
 
 - Gene to Gene Family relationships
