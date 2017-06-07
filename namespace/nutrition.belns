@@ -1,0 +1,291 @@
+[Namespace]
+Keyword=NTN
+NameString=Nutrition terms and synonyms
+DomainString=Other
+SpeciesString=9606, 10090, 10116
+DescriptionString=Nutrition terms
+VersionString=1.0.0
+CreatedDateTime=2015-02-24T16:15:00
+
+[Author]
+NameString=Alpha Tom Kodamulli
+CopyrightString=cc by 4.0
+ContactInfoString=alpha.tom.kodamullil@scai.fraunhofer.de
+
+[Citation]
+NameString=Nutrition Database
+DescriptionString=Contains terms and synonyms of nutrition
+PublishedVersionString=20150324
+PublishedDate=2015-03-24
+
+[Processing]
+CaseSensitiveFlag=yes
+DelimiterString=|
+CacheableFlag=yes
+
+[Values]
+Acceptable Daily Intake|AOGRPBC
+acetoin|AOGRPBC
+acetonuria|AOGRPBC
+achalasia|AOGRPBC
+achlorhydria|AOGRPBC
+acidaminuria|AOGRPBC
+acid food|AOGRPBC
+acidophilus milk|AOGRPBC
+adipolysis|AOGRPBC
+adiponectin|AOGRPBC
+adipose|AOGRPBC
+adipsia|AOGRPBC
+adulterant|AOGRPBC
+aerobic|AOGRPBC
+aerophagy|AOGRPBC
+aflatoxin|AOGRPBC
+albumen index|AOGRPBC
+albumin|AOGRPBC
+alimentary|AOGRPBC
+alkaloid|AOGRPBC
+allergen|AOGRPBC
+alphatocopherol|AOGRPBC
+Aluminimum|AOGRPBC
+ambient temperature|AOGRPBC
+amyloidosis|AOGRPBC
+anabolism|AOGRPBC
+antibiotic resistance|AOGRPBC
+antiemetic|AOGRPBC
+antihistamine|AOGRPBC 
+antiobesic|AOGRPBC
+antioxidant|AOGRPBC
+antivitamin|AOGRPBC
+aroma|AOGRPBC
+artificial additive|AOGRPBC
+baby food|AOGRPBC
+bacterial contamination|AOGRPBC
+bad cholesterol|AOGRPBC
+balanced diet|AOGRPBC
+bioavailability|AOGRPBC
+bioflavonoid|AOGRPBC
+biofortification|AOGRPBC
+biologically active dietary supplement|AOGRPBC
+body composition analysis|AOGRPBC
+body mass index|AOGRPBC
+body water content|AOGRPBC
+body weight|AOGRPBC
+brown adipose tissue|AOGRPBC
+by-product|AOGRPBC
+cadmium|AOGRPBC
+calorie|AOGRPBC
+Cambridge diet|AOGRPBC
+carb|AOGRPBC
+catecholamine|AOGRPBC
+caviar|AOGRPBC
+cellulite|AOGRPBC
+central obesity|AOGRPBC
+chronic disease|AOGRPBC
+clean-label|AOGRPBC
+clinical nutrition|AOGRPBC
+clinical trial|AOGRPBC
+cofactor|AOGRPBC
+colloid|AOGRPBC
+colouring|AOGRPBC
+condensation|AOGRPBC
+confectionery|AOGRPBC
+conjugated linoleic acid|AOGRPBC
+connective tissue|AOGRPBC
+constipation|AOGRPBC
+contamination|AOGRPBC
+dairy|AOGRPBC
+diet|AOGRPBC
+dietary fibre|AOGRPBC
+dietary guidelines|AOGRPBC
+digestibility|AOGRPBC
+eating pattern|AOGRPBC
+elimination diet|AOGRPBC
+ellagic acid|AOGRPBC
+emulsification|AOGRPBC
+encapsulate|AOGRPBC
+energy balance|AOGRPBC
+enolase|AOGRPBC
+essential amino acids|AOGRPBC
+essential fatty acid|AOGRPBC
+ethnic food|AOGRPBC
+exclusion diet|AOGRPBC
+extract|AOGRPBC
+fasting|AOGRPBC
+fat content|AOGRPBC
+fat replacer|AOGRPBC
+fatty acid|AOGRPBC
+fish oil|AOGRPBC
+flavonoid|AOGRPBC
+flavour|AOGRPBC
+food additive|AOGRPBC
+food allergen|AOGRPBC
+food industry|AOGRPBC
+food labelling|AOGRPBC
+food safety|AOGRPBC
+fortify|AOGRPBC
+free radical|AOGRPBC
+galactosidase|AOGRPBC
+gelatin|AOGRPBC
+glucosamine|AOGRPBC
+gluten-free|AOGRPBC
+glycogen|AOGRPBC
+glycolysis|AOGRPBC
+Graham diet|AOGRPBC
+Hazard Analysis and Critical Control Point|AOGRPBC
+HDL|AOGRPBC
+homeostasis|AOGRPBC
+hormone|AOGRPBC
+immune system|AOGRPBC
+immunocompromised|AOGRPBC
+impurity|AOGRPBC
+index of nutritional quality|AOGRPBC
+infant formula|AOGRPBC
+ingredient|AOGRPBC
+insoluble|AOGRPBC
+inulin|AOGRPBC
+iron|AOGRPBC
+isoflavonoid|AOGRPBC
+ketoacidosis|AOGRPBC
+ketogenic diet|AOGRPBC
+lactic acid|AOGRPBC
+lactogen|AOGRPBC
+lecithin|AOGRPBC
+leptin|AOGRPBC
+licorice|AOGRPBC
+lipolysis|AOGRPBC
+low-calorie|AOGRPBC
+meal replacement|AOGRPBC
+Mediterranean diet|AOGRPBC
+metabolisation|AOGRPBC
+Microbiological Risk Assessment|AOGRPBC
+microcapsule|AOGRPBC
+micronutrient|AOGRPBC
+mineralisation|AOGRPBC
+negative calorie diet|AOGRPBC
+net dietary protein energy ratio|AOGRPBC
+net protein retention|AOGRPBC
+net protein utilisation|AOGRPBC
+nutrient profile|AOGRPBC
+nutritional supplement|AOGRPBC
+omega-3|AOGRPBC
+organic food|AOGRPBC
+oxidative stress|AOGRPBC
+parenteral nutrition|AOGRPBC
+PASSCLAIM|AOGRPBC
+pasteurisation|AOGRPBC
+pathogenicity|AOGRPBC
+personalised nutrition|AOGRPBC
+phenolic compound|AOGRPBC
+physical activity|AOGRPBC
+phytonutrient|AOGRPBC
+placebo|AOGRPBC
+plant extract|AOGRPBC
+portion|AOGRPBC
+prebiotic|AOGRPBC
+preservation|AOGRPBC
+Pritikin diet|AOGRPBC
+probiotic|AOGRPBC
+processed food|AOGRPBC
+protein efficiency ratio|AOGRPBC
+protein energy malnutrition|AOGRPBC
+protein intolerance|AOGRPBC
+protein retention|AOGRPBC
+radiation|AOGRPBC
+raw food diet|AOGRPBC
+recipe|AOGRPBC
+reference nutrient intake|AOGRPBC
+regimen|AOGRPBC
+regulatory body|AOGRPBC
+risk assessment|AOGRPBC
+saccharin|AOGRPBC
+seaweed|AOGRPBC
+secondary protein energy malnutrition|AOGRPBC
+sensitise|AOGRPBC
+sensory analysis|AOGRPBC
+side effect|AOGRPBC
+single cream|AOGRPBC
+skin|AOGRPBC
+skinny|AOGRPBC
+slim|AOGRPBC
+smart food|AOGRPBC
+solid diet|AOGRPBC
+soluble fibre|AOGRPBC
+spice|AOGRPBC
+sports nutrition|AOGRPBC
+stable emulsion|AOGRPBC
+starve|AOGRPBC
+stimulant|AOGRPBC
+subcutaneous|AOGRPBC
+substrate|AOGRPBC
+sugar-free|AOGRPBC
+superfood|AOGRPBC
+supplement|AOGRPBC
+sweetener|AOGRPBC
+synbiotic|AOGRPBC
+synergistic effect|AOGRPBC
+synthesis|AOGRPBC
+syrup|AOGRPBC
+taste|AOGRPBC
+texture|AOGRPBC
+therapeutic food|AOGRPBC
+thermal effect of food|AOGRPBC
+thirst|AOGRPBC
+tinned food|AOGRPBC
+tissue repair|AOGRPBC
+tooth decay|AOGRPBC
+total energy expenditure|AOGRPBC
+traceability|AOGRPBC
+trace element|AOGRPBC
+transdermal|AOGRPBC
+tube feeding|AOGRPBC
+diabetes|AOGRPBC
+Type I diabetes|AOGRPBC
+Type II diabetes|AOGRPBC
+ulcer|AOGRPBC
+ultrapasteurised|AOGRPBC
+ultraviolet|AOGRPBC
+undernutrition|AOGRPBC
+unsaturated fat|AOGRPBC
+varied diet|AOGRPBC
+vegetable oil|AOGRPBC
+vegetarian|AOGRPBC
+viscosity|AOGRPBC
+vitamin-rich|AOGRPBC
+waist-to-hip ratio|AOGRPBC
+weight bearing activity|AOGRPBC
+wellness|AOGRPBC
+wellness foods|AOGRPBC
+whey|AOGRPBC
+white adipose tissue|AOGRPBC
+whiting|AOGRPBC
+wholefood|AOGRPBC
+xylitol|AOGRPBC
+yeast extract|AOGRPBC
+yo-yo dieting|AOGRPBC
+zinc deficiency|AOGRPBC
+Zone diet|AOGRPBC
+vitamin E|AOGRPBC
+caffeine|AOGRPBC
+vitamin D|AOGRPBC
+cinnamon|AOGRPBC
+curcumin|AOGRPBC
+Saffron|AOGRPBC
+zinc|AOGRPBC
+nicotinamide|AOGRPBC
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
