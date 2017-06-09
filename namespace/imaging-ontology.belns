@@ -4,7 +4,7 @@ NameString=ImagingOntology
 DomainString=Other
 SpeciesString=9606, 10090, 10116
 DescriptionString=Imaging ontology developed in SCAI
-VersionString=1.0.0
+VersionString=1.0.1
 CreatedDateTime=2015-08-27T16:15:00
 
 [Author]
@@ -24,6 +24,7 @@ DelimiterString=|
 CacheableFlag=yes
 
 [Values]
+CA3 of the hippocampus|OGRPBCAM
 Sulcus Circular Insula Inferior|OGRPBCAM
 Montreal cognitive assessment _ orientation _ place|OGRPBCAM
 Task_Free fMRI summary metric of DMN ROIs|OGRPBCAM
