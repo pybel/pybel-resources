@@ -4,7 +4,7 @@ NameString=Epilepsy Terminology
 DomainString=Other
 SpeciesString=9606, 10090, 10116
 DescriptionString= Epilepsy terminology developed in scai.
-VersionString=1.0.0
+VersionString=1.0.1
 CreatedDateTime=2017-04-30T16:15:00
 
 [Author]
