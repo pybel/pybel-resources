@@ -4,7 +4,7 @@ NameString=ImagingOntology
 DomainString=Other
 SpeciesString=9606, 10090, 10116
 DescriptionString=Imaging ontology developed in SCAI
-VersionString=1.0.1
+VersionString=1.0.2
 CreatedDateTime=2015-08-27T16:15:00
 
 [Author]
@@ -1229,4 +1229,11 @@ Hyperintensity of Substantia Nigra|OGRPBCAM
 Magnetic resonance spectroscopy|OGRPBCAM
 Angular Gyrus|OGRPBCAM
 Thickness Right Sulcus Precentral Superior Part|OGRPBCAM
-
+White matter integrity|A
+Neuronal atrophy|A
+CSF-Tau|A
+Skeletal muscle atrophy|A
+White matter perfusion|A
+Abeta_42 CSF|A
+Synaptic plasticity|A
+Multiple system atrophy|A
