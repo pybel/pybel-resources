@@ -4,7 +4,7 @@ NameString=ImagingOntology
 DomainString=Other
 SpeciesString=9606, 10090, 10116
 DescriptionString=Imaging ontology developed in SCAI
-VersionString=1.0.3
+VersionString=1.0.4
 CreatedDateTime=2015-08-27T16:15:00
 
 [Author]
@@ -1238,3 +1238,6 @@ Abeta_42 CSF|A
 Synaptic plasticity|A
 Multiple system atrophy|A
 Heidelberg edge perimetry|A
+Free and Cued Selective Reminding Test|A
+Alzheimer questionnaire|A
+Dopamine transporter scan|A
