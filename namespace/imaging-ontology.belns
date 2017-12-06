@@ -4,7 +4,7 @@ NameString=ImagingOntology
 DomainString=Other
 SpeciesString=9606, 10090, 10116
 DescriptionString=Imaging ontology developed in SCAI
-VersionString=1.0.4
+VersionString=1.0.5
 CreatedDateTime=2015-08-27T16:15:00
 
 [Author]
@@ -1241,3 +1241,6 @@ Heidelberg edge perimetry|A
 Free and Cued Selective Reminding Test|A
 Alzheimer questionnaire|A
 Dopamine transporter scan|A
+3-HPMA/Cre ratio|A
+Abeta_40_42_ratio|A
+Logical Memory Immediate|A
