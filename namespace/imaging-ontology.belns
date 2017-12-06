@@ -4,7 +4,7 @@ NameString=ImagingOntology
 DomainString=Other
 SpeciesString=9606, 10090, 10116
 DescriptionString=Imaging ontology developed in SCAI
-VersionString=1.0.5
+VersionString=1.0.6
 CreatedDateTime=2015-08-27T16:15:00
 
 [Author]
