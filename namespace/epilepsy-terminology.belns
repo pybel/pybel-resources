@@ -4,13 +4,13 @@ NameString=Epilepsy Terminology
 DomainString=Other
 SpeciesString=9606, 10090, 10116
 DescriptionString= Epilepsy terminology developed in scai.
-VersionString=1.0.2
+VersionString=1.0.3
 CreatedDateTime=2017-04-30T16:15:00
 
 [Author]
 NameString=SCAI
 CopyrightString=cc by 4.0
-ContactInfoString=nora.filep@scai.fraunhofer.de
+ContactInfoString=daniel.domingo.fernandez@scai.fraunhofer.de
 
 [Citation]
 NameString=Epilepsy Terminology SCAI
@@ -45,3 +45,4 @@ seizure|OGRPBCAM
 tricyclic antidepressant|A
 dentate gyrus|A
 lateral temporal epilepsy|OGRPBCAM
+sprouting|OGRPBCAM
