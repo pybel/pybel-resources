@@ -3,12 +3,12 @@ Keyword=PDO
 NameString=Parkinson Disease Ontology 
 DomainString=Other
 SpeciesString=9606, 10090, 10116
-DescriptionString= Parkinson Disease ontology developed in scai.
-VersionString=1.0.1
+DescriptionString=A terminology for Parkinson's disease curation.
+VersionString=1.0.2
 CreatedDateTime=2012-06-19T16:15:00
 
 [Author]
-NameString=SCAI
+NameString=Fraunhofer SCAI
 CopyrightString=cc by 4.0
 ContactInfoString=alpha.tom.kodamullil@scai.fraunhofer.de
 
@@ -24,7 +24,6 @@ DelimiterString=|
 CacheableFlag=yes
 
 [Values]
-
 Levodopa_test|OGRPBCAM
 Anhedonia|OGRPBCAM
 Inherited_dystonia|OGRPBCAM
@@ -53,7 +52,7 @@ Columbia_university_rating_scale|OGRPBCAM
 MDS-UPDRS|OGRPBCAM
 Pink1tm1Aub|OGRPBCAM
 Cycle_ergometry|OGRPBCAM
-Lewy_body|OGRPBCAMA
+Lewy_body|OGRPBCAM
 LSVT_LOUD|OGRPBCAM
 Ecstasy|OGRPBCAM
 Central_surgery|OGRPBCAM
@@ -443,7 +442,7 @@ Organophosphate|OGRPBCAM
 Methanol|OGRPBCAM
 PARK6_mutation_parkinsonism|OGRPBCAM
 Rapid_eye_movement_sleep_behaviour_disorder|OGRPBCAM
-Plasma_homocysteine|OGRPBCAMA
+Plasma_homocysteine|OGRPBCAM
 Festination|OGRPBCAM
 Treatment_of_Parkinson_s_disease|OGRPBCAM
 Cortical_excitability|OGRPBCAM
@@ -474,7 +473,7 @@ Destination_hesitation|OGRPBCAM
 Pink1tm1Shn|OGRPBCAM
 End_of_dose|OGRPBCAM
 Huntington_disease|OGRPBCAM
-Paraquat|OGRPBCAMA
+Paraquat|OGRPBCAM
 Prochlorperazine-induced_parkinsonism|OGRPBCAM
 Montgomery-Asberg_depression_rating_scale|OGRPBCAM
 Pittsburgh_sleep_quality_index|OGRPBCAM
